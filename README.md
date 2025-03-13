@@ -1,11 +1,11 @@
 # LRA-GNN: Latent Relation-Aware Graph Neural Network with Initial and Dynamic Residual for Facial Age Estimation
 
 > [LRA-GNN: Latent Relation-Aware Graph Neural Network with Initial and Dynamic Residual for Facial Age Estimation](./LRA-GNN/LRA-GNN.pdf)  
-> Yiping Zhang, Yuntao Shou, Wei Ai, Tao Meng ∗,and Keqin Li
+> Yiping Zhang, Yuntao Shou, Wei Ai, Tao Meng∗,and Keqin Li
 
-![vis](./LRA-GNN/Figure1.png)
+<img src="./LRA-GNN/Figure1.png" width="800">
 
-We propose a new Latent RelationAware Graph Neural Network with Initial and Dynamic Residual (LRA-GNN) to achieve robust and comprehensive facial representation.
+We propose a new Latent Relation-Aware Graph Neural Network with Initial and Dynamic Residual (LRA-GNN) to achieve robust and comprehensive facial representation.
 
 ## Overview
 ![overview](./LRA-GNN/Figure2.png)
